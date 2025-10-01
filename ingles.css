@@ -1,0 +1,21 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fcddf2; 
+  color: #333;
+  margin: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+a {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  margin-top: 1rem;
+  background-color: #4b4be9; 
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+}

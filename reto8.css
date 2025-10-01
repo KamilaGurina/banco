@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f8ff; 
+    margin: 1.5rem;
+    text-align: center;
+}
+
+h1 {
+    color: #8f8fe0; 
+}
+
+h2 {
+    color: #ff6fcf; 
+}
+
+section, div {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+section.platos {
+    text-align: left;
+}
+
+
+
+
